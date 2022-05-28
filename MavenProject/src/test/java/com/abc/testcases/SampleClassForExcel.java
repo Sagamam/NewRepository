@@ -1,6 +1,6 @@
 package com.abc.testcases;
 
-import java.awt.image.BandedSampleModel;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Iterator;

@@ -22,6 +22,7 @@ public class BaseClassWithUsing_propertyfile {
    public static ExtentSparkReporter spark;
    public static String filepath;
    public static ExtentTest test;
+   public static 
    
 	
 	/*purpose-this method will help to launch Firefox, Chrome,
